@@ -1,0 +1,23 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Errytagedesign/unitTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Errytagedesign/unitTesting/issues"
+  },
+  "homepage": "https://github.com/Errytagedesign/unitTesting#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
